@@ -5,13 +5,12 @@
   &copy; {% if site.since and since != current %} {{ since }} - {% endif %}
   <span itemprop="copyrightYear">{{ current }}</span>
   <span class="author" itemprop="copyrightHolder">{{ site.author }}</span>
-  All rights reserved.
+  . All rights reserved.
 </div>
 
 {% if site.copyright %}
 <div class="powered-by">
   {{ __.footer.powered | replace: '%s', '<a class="theme-link" href="https://Switernal.com">Switernal</a>') }}
 </div>
-
 
 {% endif %}
