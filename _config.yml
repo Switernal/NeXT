@@ -232,8 +232,8 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
-  #简书: jianshu
-  #Email: email
+  简书: jianshu
+  Email: email
   
 
 
@@ -294,7 +294,7 @@ links:
   #Title: http://example.com/
   Github: https://github.com/
   南信大OJ: http://acm.nuist.edu.cn/
-  菜鸟教程: https://runoob.com/
+  菜鸟教程: https://www.runoob.com/
   
 
 
