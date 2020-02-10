@@ -293,6 +293,7 @@ links:
   Github: https://github.com/
   南信大OJ: http://acm.nuist.edu.cn/
   菜鸟教程: https://www.runoob.com/
+  邮箱:Switernal@outlook.com:
   
 
 
@@ -736,8 +737,8 @@ vendors:
   # https://github.com/ethantw/Han
   han:
 
-reward_comment: 给我打钱。
-wechatpay: /path/to/wechat-reward-image
+reward_comment: 请给我打钱。
+wechatpay: https://s2.ax1x.com/2020/02/10/15NGyF.jpg
 alipay: https://s2.ax1x.com/2020/02/10/15QTLq.jpg
 
 # Assets
