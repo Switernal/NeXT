@@ -199,7 +199,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: Menlo
     size:
 
 
@@ -213,8 +213,12 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
   #LinkLabel: Link
+   GitHub: https://github.com/switernal
+  Twitter: https://twitter.com/ch_yangbo
+  简书: https://www.jianshu.com/u/cae5078c8def
+  Email: Switernal@outlook.com
 
 
 # Social Links Icons
@@ -228,7 +232,9 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
-  Weibo: weibo
+  简书: jianshu
+  Email: email
+  
 
 
 # Sidebar Avatar
@@ -281,11 +287,15 @@ sidebar:
 
 
 # Blog rolls
-#links_title: Links
-#links_layout: block
+links_title: Links
+links_layout: block
 #links_layout: inline
-#links:
+links:
   #Title: http://example.com/
+  Github: https://github.com
+  南信大OJ: http://acm.nuist.edu.cn
+  菜鸟教程: https://runoob.com
+  
 
 
 # ---------------------------------------------------------------
@@ -373,7 +383,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 08a3159bd8b41052cbc0af4f6bafbf9b
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -481,7 +491,7 @@ gitalk:
 duoshuo_info:
   ua_enable: true
   admin_enable: false
-  user_id: 0
+  user_id: 0a
   #admin_nickname: Author
 
 
