@@ -1,12 +1,8 @@
 ---
 layout: page
 type: about
-title: 
+title: 这里是Switernal.cn
 ---
-
-
-
-# 这里是Switernal.cn
 
 
 
