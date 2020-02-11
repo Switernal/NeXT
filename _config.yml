@@ -232,7 +232,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   #简书: jianshu
-  
+
 
 
 # Sidebar Avatar
@@ -294,7 +294,7 @@ links:
   南信大OJ: http://acm.nuist.edu.cn/
   菜鸟教程: https://www.runoob.com/
   邮箱:Switernal@outlook.com: https://switernal.cn/about/
-  
+
 
 
 # ---------------------------------------------------------------
@@ -738,8 +738,8 @@ vendors:
   han:
 
 reward_comment: 请给我打钱。
-wechatpay: https://s2.ax1x.com/2020/02/10/15NGyF.jpg
-alipay: https://s2.ax1x.com/2020/02/10/15QTLq.jpg
+alipay: /assets/images/PayQRCode/Alipay.JPG
+wechatpay: /assets/images/PayQRCode/WechatPay.JPG
 
 # Assets
 css: assets/css
